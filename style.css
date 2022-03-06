@@ -1,0 +1,24 @@
+::-webkit-scrollbar {
+    display:none;
+}
+
+.zoom
+{
+    zoom: 90%;
+}
+
+html,body {
+    margin:0;
+    padding:0;
+    display: block;
+}
+
+ /*#defaultCanvas0.p5Canvas {
+margin: 0;
+padding:0;
+box-shadow: 50px -1px 30px 9px #87CEEB;
+} */
+
+.swal2-modal {
+    min-height: 300px;
+  }
